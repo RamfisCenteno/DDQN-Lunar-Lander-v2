@@ -27,3 +27,5 @@ Con estos parametros y en un entrenamiento de 7 horas se lograron los siguientes
 
 Para el segundo caso, se hace el replay en cada step para actualizar al learning model. El target model se actualiza una vez por época para mantener estabilidad. Los parametros y resultados obtenidos para este caso fueron: 
 ![img3](img3.jpeg)
+
+Se puede ver la implementacion en el notebook DDQN_LunarLander_FrequentReplay.ipynb, la ventaja de este experimento respecto al anterior, es que solo fue necesaria media hora de entrenamiento para lograr estos resultados.
