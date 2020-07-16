@@ -20,7 +20,7 @@ Actualizacion (16/7/2020):
 
 Se siguio haciendo mas experimentos, de estos, se presentan los 2 mejores resultados:
 
-En el primero, nos basamos en una implementacion para la resolucion del mismo problema, encontrado en https://github.com/psulkava/deep-reinforcement-learning-with-gym. De este repositorio se usaron los parámetros tales como: Learning Rate, Epsilon, Batch Size, Target Update.
+En el primero, nos basamos en una implementacion para la resolucion del mismo problema, encontrado en https://github.com/psulkava/deep-reinforcement-learning-with-gym. De este repositorio se usaron los parámetros tales como: Learning Rate, Epsilon, Batch Size, Target Update. (El codigo de esta implementacion esta en: DDQN_LLander.ipynb, puede descargar los pesos de esta implementacion en Pesos_2518.h5)
 
 Con estos parametros y en un entrenamiento de 7 horas se lograron los siguientes resultados (para 5 pruebas):
 ![img2](img2.jpeg)
